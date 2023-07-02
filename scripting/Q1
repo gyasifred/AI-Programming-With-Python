@@ -13,8 +13,7 @@ Ask for user input 3 times. Once for a list of names, once for a list of missing
 Use a loop to print the message for each student with the correct values. The potential grade is simply the current grade added to two times the number of missing assignments.
 
 Template code for your script:
-```
-names =  # get and process input for a list of names
+```names =  # get and process input for a list of names
 assignments =  # get and process input for a list of the number of assignments
 grades =  # get and process input for a list of grades
 
